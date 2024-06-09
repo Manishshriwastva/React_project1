@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "f2f7",
+      "name": "ravi",
+      "email": "ravi@test.com",
+      "password": "ravi",
+      "cpassword": "ravi",
+      "mobile": "2345678987"
+    },
+    {
+      "id": "856e",
+      "name": "admin",
+      "email": "admin@test.com",
+      "password": "admin",
+      "cpassword": "admin",
+      "mobile": "2345678976"
+    },
+    {
+      "id": "b16b",
+      "name": "sachin",
+      "email": "sachin@test.com",
+      "password": "sachin",
+      "cpassword": "sachin",
+      "mobile": "4567876545"
+    }
+  ]
+}
